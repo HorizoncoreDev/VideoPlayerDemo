@@ -1,0 +1,4 @@
+workflows:
+  hello-world:
+    name: My First Workflow
+    scripts:
